@@ -1,0 +1,198 @@
+#The fille de chambre, a novel. / By Mrs. Rowson, of the New Theatre, Philadelphia; author of Charlotte, The inquisitor, Victoria, &c. ; [Seven lines of verse]#
+
+##Rowson, Mrs., 1762-1824.##
+The fille de chambre, a novel. / By Mrs. Rowson, of the New Theatre, Philadelphia; author of Charlotte, The inquisitor, Victoria, &c. ; [Seven lines of verse]
+Rowson, Mrs., 1762-1824.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/N21/N21053.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/N21/N21053.epub)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2005-12__ __TCP__ *Assigned for keying and markup*
+1. __2006-01__ __SPi Global (Manila)__ *Keyed and coded from Readex/Newsbank page images*
+1. __2006-08__ __Olivia Bottum__ *Sampled and proofread*
+1. __2006-08__ __Olivia Bottum__ *Text and markup reviewed and edited*
+1. __2006-09__ __pfs.__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+#####Front#####
+
+1. PREFACE.
+
+#####Body#####
+
+1. THE FILLE DE CHAMBRE.
+
+    _ CHAP. I. THE COTTAGE FIRE SIDE.
+
+    _ CHAP. II. THE APPLICATION.
+
+    _ CHAP. III. SUSPICION.
+
+    _ CHAP. V. NOUVELLE SCENES.
+
+    _ CHAP. VI. WHAT MIGHT BE EXPECTED.
+
+    _ CHAP. VII. DEBATE ON MATRIMONY.
+
+    _ CHAP. VIII. FEMALE HEROISM.
+
+    _ CHAP. IX. MORTALITY.
+
+    _ CHAP. X. DISAPPOINTMENT.
+
+    _ CHAP. XI. TEARS OF SENSIBILITY AND SORROW A-LA-MODE.
+
+    _ CHAP. XII. THE MAN OF THE WORLD.
+
+    _ CHAP. XIII. THE WOMAN OF HONOUR.
+
+    _ CHAP. XIV. TRIAL OF THE HEART.
+
+    _ CHAP. XV. SERVITUDE.
+
+    _ CHAP. XVI. MODERN MANNERS.
+
+    _ CHAP. XVII. GALLANTRY, JEALOUSY, AND INTEGRITY.
+
+    _ CHAP. XVIII. FASHIONABLE LEVITIES.
+
+    _ CHAP. XIX. SEDUCTION.
+
+    _ CHAP. XX. DELIVERANCE.
+
+    _ CHAP. XXI. A NEW PLACE.
+
+    _ CHAP. XXII. SCHOOL FOR WIVES.
+
+    _ CHAP. XXIV. THE VOYAGE.
+
+    _ CHAP. XXIII. ON THE OTHER SIDE THE ATLANTIC.
+
+    _ CHAP. XXV. SUFFERING LOYALTY.
+
+    _ CHAP. XXVI. THE REMOVAL.
+
+    _ CHAP. XXVII. AN OLD MAN'S TALE.
+
+    _ CHAP. XXVIII. WE COME HOME AGAIN.
+
+    _ CHAP. XXIX. VARIOUS SCENES.
+
+    _ CHAP. XXX. VARIETY STILL.
+
+    _ CHAP. XXXI. RETROSPECTION AND NEW CHARACTERS.
+
+    _ CHAP. XXXII. OLD ACQUAINTANCE RENEWED.
+
+    _ CHAP. XXXIII. THE BENEVOLENT LADY.
+
+    _ CHAP. XXXIV. WE GO BACK TO THE FIFTEENTH CHAPTER.
+
+    _ CHAP. XXXV. DISAPPOINTMENT.
+
+    _ CHAP. XXXVI. LADY CHATTERTON'S BIRTH-DAY.
+
+    _ CHAP. XXXVII. AS IT SHOULD BE.
+
+#####Back#####
+
+1. PROPOSALS FOR PRINTING BY SUBSCRIPTION, AN ORIGINAL NOVEL, IN FOUR VOLUMES DUODECIMO, Dedicated, by permiſſion, to Mrs. BINGHAM, ENTITLED, TRIALS OF THE HUMAN HEART. By MRS. ROWSON, Of the NEW THEATRE, PHILADELPHIA, Author of VICTORIA, INQUISITOR, CHARLOTTE, FILLE DE CHAMBRE, &c. &c.
+
+**Types of content**
+
+  * There are 31 **verse** lines!
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 360 **ommitted** fragments! 
+ @__reason__ (360) : illegible (360)  •  @__resp__ (360) : #PDCC (360)  •  @__extent__ (360) : 1 word (68), 1 letter (180), 2 letters (75), 1 span (13), 3 letters (23), 4 letters (1)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin-1 Supplement|éè|233 232|
+|Latin Extended-A|ſ|383|
+|General Punctuation|•…—|8226 8230 8212|
+|Geometric Shapes|◊▪|9674 9642|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|2||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|5||
+|5.|__date__|7| @__when__ (1) : 2007-01 (1)|
+|6.|__editorialDecl__|1||
+|7.|__extent__|2||
+|8.|__idno__|6| @__type__ (6) : DLPS (1), TCP (1), STC (1), NOTIS (1), IMAGE-SET (1), EVANS-CITATION (1)|
+|9.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|10.|__label__|5||
+|11.|__langUsage__|1||
+|12.|__language__|1| @__ident__ (1) : eng (1)|
+|13.|__listPrefixDef__|1||
+|14.|__note__|4||
+|15.|__notesStmt__|2||
+|16.|__p__|11||
+|17.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|18.|__projectDesc__|1||
+|19.|__pubPlace__|2||
+|20.|__publicationStmt__|2||
+|21.|__publisher__|2||
+|22.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|23.|__seriesStmt__|1||
+|24.|__sourceDesc__|1||
+|25.|__term__|3||
+|26.|__textClass__|1||
+|27.|__title__|3||
+|28.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__body__|7||
+|2.|__closer__|6||
+|3.|__desc__|360||
+|4.|__div__|40| @__type__ (40) : title_page (1), preface (1), text (1), chapter (36), publishers_advertisement (1)  •  @__n__ (36) : 1 (1), 2 (1), 3 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 24 (1), 23 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1)|
+|5.|__floatingText__|7| @__type__ (7) : letter (7)|
+|6.|__g__|1266| @__ref__ (1266) : char:EOLhyphen (1223), char:punc (42), char:EOLunhyphen (1)|
+|7.|__gap__|360| @__reason__ (360) : illegible (360)  •  @__resp__ (360) : #PDCC (360)  •  @__extent__ (360) : 1 word (68), 1 letter (180), 2 letters (75), 1 span (13), 3 letters (23), 4 letters (1)|
+|8.|__head__|40||
+|9.|__hi__|29||
+|10.|__l__|31||
+|11.|__lg__|6||
+|12.|__note__|4| @__n__ (4) : * (4)  •  @__place__ (4) : bottom (4)|
+|13.|__opener__|5||
+|14.|__p__|1444| @__n__ (3) : 1 (1), 2 (1), 3 (1)|
+|15.|__pb__|208| @__facs__ (208) : tcp:027651_0000_0FD564B896141598 (1), tcp:027651_0001_0FD56408687B1920 (1), tcp:027651_0002_0FD7C1CEEB3EB1A8 (1), tcp:027651_0003_0FD5640B5D582948 (1), tcp:027651_0004_0FD5640E70E72E28 (1), tcp:027651_0005_0FD564108D738EC8 (1), tcp:027651_0006_0FD564120CF2F4E8 (1), tcp:027651_0007_0FD56414CC1E3FC8 (1), tcp:027651_0008_0FD56416F92D3CD0 (1), tcp:027651_0009_0FD5641822FCE4D8 (1), tcp:027651_0010_0FD5641990BC8BC0 (1), tcp:027651_0011_0FD7C1D2AB9E36C8 (1), tcp:027651_0012_0FD7C1D42B12A068 (1), tcp:027651_0013_0FD5641F8CE5C200 (1), tcp:027651_0014_0FD56422AB44EB68 (1), tcp:027651_0015_0FD5642488A224E0 (1), tcp:027651_0016_0FD564258E8E2E58 (1), tcp:027651_0017_0FD813ED6CEC9858 (1), tcp:027651_0018_0FD5642A5BB3EF28 (1), tcp:027651_0019_0FD5642CD1C1C6C0 (1), tcp:027651_0020_0FD5642E904C8410 (1), tcp:027651_0021_0FD7C1D95090DC28 (1), tcp:027651_0022_0FD56432288D4578 (1), tcp:027651_0023_0FD564334FFE5088 (1), tcp:027651_0024_0FD5643566160BB8 (1), tcp:027651_0025_0FD56436CD4026A0 (1), tcp:027651_0026_0FD7C1DA45A97E50 (1), tcp:027651_0027_0FD7C1E9EBDFCFC0 (1), tcp:027651_0028_0FD5643B4E1D8298 (1), tcp:027651_0029_0FD5242C53E22A08 (1), tcp:027651_0030_0FD5643D932ADC40 (1), tcp:027651_0031_0FD5643F7A7EF1F0 (1), tcp:027651_0032_0FD56440983C25B8 (1), tcp:027651_0033_0FD7C1CD8705F170 (1), tcp:027651_0034_0FD56444A1441918 (1), tcp:027651_0035_0FD56445D217FD10 (1), tcp:027651_0036_0FD56447DCBD5C60 (1), tcp:027651_0037_0FD56448D30F8058 (1), tcp:027651_0038_0FD5644A4FAD6998 (1), tcp:027651_0039_0FD5644BCD9D5230 (1), tcp:027651_0040_0FD564502B0440B8 (1), tcp:027651_0041_0FD56451D2BD9F68 (1), tcp:027651_0042_0FD5645356CD8640 (1), tcp:027651_0043_0FD56454CCBE0620 (1), tcp:027651_0044_0FD564597A4A4D60 (1), tcp:027651_0045_0FD5645B2F0B7118 (1), tcp:027651_0046_0FD5645C4DF47E98 (1), tcp:027651_0047_0FD56462333B6310 (1), tcp:027651_0048_0FD5645E036D9040 (1), tcp:027651_0049_0FD5645F4CAECBB0 (1), tcp:027651_0050_0FD564631A11F728 (1), tcp:027651_0051_0FD564648F454570 (1), tcp:027651_0052_0FD564660C9A49B0 (1), tcp:027651_0053_0FD564696C687820 (1), tcp:027651_0054_0FD7C1F2D9F57A30 (1), tcp:027651_0055_0FD5646C17B52B08 (1), tcp:027651_0056_0FD5646E961847D0 (1), tcp:027651_0057_0FD564701011CCD0 (1), tcp:027651_0058_0FD564734DFE4298 (1), tcp:027651_0059_0FD56475CDFAFEA8 (1), tcp:027651_0060_0FD56476968F3908 (1), tcp:027651_0061_0FD56478169E5FF0 (1), tcp:027651_0062_0FD564798C934CA0 (1), tcp:027651_0063_0FD5647E58D31270 (1), tcp:027651_0064_0FD56480CB13DC78 (1), tcp:027651_0065_0FD56481CCCD05F8 (1), tcp:027651_0066_0FD56483A377C9C8 (1), tcp:027651_0067_0FD56485814D0DB8 (1), tcp:027651_0068_0FD56487CE8B1948 (1), tcp:027651_0069_0FD56489506C1230 (1), tcp:027651_0070_0FD5648B1383D598 (1), tcp:027651_0071_0FD5648DD3F9CCD0 (1), tcp:027651_0072_0FD7C1F3AB183A00 (1), tcp:027651_0073_0FD564930F026458 (1), tcp:027651_0074_0FD5649495A240F8 (1), tcp:027651_0075_0FD564961C359E60 (1), tcp:027651_0076_0FD813EFC8B658C0 (1), tcp:027651_0077_0FD5649AD917B0D8 (1), tcp:027651_0078_0FD5649C15282EF8 (1), tcp:027651_0079_0FD5649D98B3AB60 (1), tcp:027651_0080_0FD5649F0DCE1E60 (1), tcp:027651_0081_0FD564A155779B00 (1), tcp:027651_0082_0FD564A45D26D848 (1), tcp:027651_0083_0FD564A69FF64BF8 (1), tcp:027651_0084_0FD564A833C49FE0 (1), tcp:027651_0085_0FD564A98C7C51D0 (1), tcp:027651_0086_0FD564ACD155FD00 (1), tcp:027651_0087_0FD564AE85A09510 (1), tcp:027651_0088_0FD564AF9C5E11D8 (1), tcp:027651_0089_0FD564B119290A40 (1), tcp:027651_0090_0FD564B4047E5460 (1), tcp:027651_0091_0FD564B6DC504698 (1), tcp:027651_0092_0FD5242A82F13450 (1), tcp:027651_0093_0FD564BA10862210 (1), tcp:027651_0094_0FD564BB8C70CC98 (1), tcp:027651_0095_0FD564BF68C0F008 (1), tcp:027651_0096_0FD564C11B311AF8 (1), tcp:027651_0097_0FD564C25A5A9CD0 (1), tcp:027651_0098_0FD564C3D0DF2B08 (1), tcp:027651_0099_0FD5657693D7CDB0 (1), tcp:027651_0100_0FD52431F768FB78 (1), tcp:027651_0101_0FD52466CBFCF840 (1), tcp:027651_0102_0FD564C7DB3BA248 (1), tcp:027651_0103_0FD564CA02507BC8 (1), tcp:027651_0104_0FD564CCD8012058 (1), tcp:027651_0105_0FD564CE53FE7438 (1), tcp:027651_0106_0FD564D0958AE868 (1), tcp:027651_0107_0FD564D20CA35618 (1), tcp:027651_0108_0FD564D6D398D0B0 (1), tcp:027651_0109_0FD564D8192F0968 (1), tcp:027651_0110_0FD564D9908366D8 (1), tcp:027651_0111_0FD564DB22342638 (1), tcp:027651_0112_0FD564DEEE8B5FF0 (1), tcp:027651_0113_0FD564E1A7B0C440 (1), tcp:027651_0114_0FD564E29342F050 (1), tcp:027651_0115_0FD564E40EEC9E20 (1), tcp:027651_0116_0FD564E6185F9020 (1), tcp:027651_0117_0FD564E734920200 (1), tcp:027651_0118_0FD564E88C3C89B0 (1), tcp:027651_0119_0FD564EC81020A98 (1), tcp:027651_0120_0FD564EDCE6E4A48 (1), tcp:027651_0121_0FD564EF54A1EFC8 (1), tcp:027651_0122_0FD564F0CD1D5C60 (1), tcp:027651_0123_0FD564F44DF764C8 (1), tcp:027651_0124_0FD564F7729FC720 (1), tcp:027651_0125_0FD564F913E59120 (1), tcp:027651_0126_0FD564FAA5BEE338 (1), tcp:027651_0127_0FD564FC0CCC8CE0 (1), tcp:027651_0128_0FD56501A781C8E8 (1), tcp:027651_0129_0FD56502D4ECA8B0 (1), tcp:027651_0130_0FD5650460A4EF00 (1), tcp:027651_0131_0FD56505CDB5CFB8 (1), tcp:027651_0132_0FD565088914FB50 (1), tcp:027651_0133_0FD565099E19DB38 (1), tcp:027651_0134_0FD5650B18597988 (1), tcp:027651_0135_0FD5650D7A7D1948 (1), tcp:027651_0136_0FD5650ECE12EF90 (1), tcp:027651_0137_0FD7C1E6EE8A7590 (1), tcp:027651_0138_0FD56513C5C8E178 (1), tcp:027651_0139_0FD56516EE9D1330 (1), tcp:027651_0140_0FD5652903F87AC0 (1), tcp:027651_0141_0FD56517D284F780 (1), tcp:027651_0142_0FD565194C24BFD8 (1), tcp:027651_0143_0FD7C1DBABC73AC8 (1), tcp:027651_0144_0FD5651EC10B0760 (1), tcp:027651_0145_0FD565201211F618 (1), tcp:027651_0146_0FD565219C7395A8 (1), tcp:027651_0147_0FD5652345A7C8D0 (1), tcp:027651_0148_0FD7C1E1AC79E128 (1), tcp:027651_0149_0FD56527313361F8 (1), tcp:027651_0150_0FD56529CD381FF0 (1), tcp:027651_0151_0FD5652B977A21C0 (1), tcp:027651_0152_0FD5652E9FCFF390 (1), tcp:027651_0153_0FD56530D52BEFE8 (1), tcp:027651_0154_0FD5653222499E50 (1), tcp:027651_0155_0FD56533CBE359A8 (1), tcp:027651_0156_0FD5653572B44920 (1), tcp:027651_0157_0FD56537D2E288A0 (1), tcp:027651_0158_0FD565398CECF1D8 (1), tcp:027651_0159_0FD5653B2344A408 (1), tcp:027651_0160_0FD5653C916E3820 (1), tcp:027651_0161_0FD5653E389CEB80 (1), tcp:027651_0162_0FD5653F9E1E1158 (1), tcp:027651_0163_0FD565410BEEB3E8 (1), tcp:027651_0164_0FD565441CDCB3D0 (1), tcp:027651_0165_0FD565458FE42938 (1), tcp:027651_0166_0FD565470FA36330 (1), tcp:027651_0167_0FD565488CAF8730 (1), tcp:027651_0168_0FD5654A0C6F7CA8 (1), tcp:027651_0169_0FD5654ED8121C00 (1), tcp:027651_0170_0FD5655019B9DC78 (1), tcp:027651_0171_0FD565518C0FFB70 (1), tcp:027651_0172_0FD56553EBE58898 (1), tcp:027651_0173_0FD5655759DCBE28 (1), tcp:027651_0174_0FD5655931409CB0 (1), tcp:027651_0175_0FD5655A9E64A7A8 (1), tcp:027651_0176_0FD5655C0E8400E0 (1), tcp:027651_0177_0FD5655D8D206D88 (1), tcp:027651_0178_0FD5655F66C91B90 (1), tcp:027651_0179_0FD56563134C1040 (1), tcp:027651_0180_0FD56564579F41A8 (1), tcp:027651_0181_0FD56565CFF236E0 (1), tcp:027651_0182_0FD56568617EB8E8 (1), tcp:027651_0183_0FD565698BE99F20 (1), tcp:027651_0184_0FD5656D5A9363F8 (1), tcp:027651_0185_0FD5656F982A9988 (1), tcp:027651_0186_0FD565712342E6B8 (1), tcp:027651_0187_0FD5657291CA65C8 (1), tcp:027651_0188_0FD56575760F4B60 (1), tcp:027651_0189_0FD524308A5C3CA8 (1), tcp:027651_0190_0FD56579A02BD318 (1), tcp:027651_0191_0FD5657B5B782678 (1), tcp:027651_0192_0FD5657C5528A040 (1), tcp:027651_0193_0FD5657DDB72DB00 (1), tcp:027651_0194_0FD5657F683F0250 (1), tcp:027651_0195_0FD56580D1B53FB8 (1), tcp:027651_0196_0FD565865BAA4298 (1), tcp:027651_0197_0FD5658793251F80 (1), tcp:027651_0198_0FD565895C6F2CC0 (1), tcp:027651_0199_0FD5662632F76CA0 (1), tcp:027651_0200_0FD5243772EFDB20 (1), tcp:027651_0201_0FD5658A985EE058 (1), tcp:027651_0202_0FD5658CD8AF1398 (1), tcp:027651_0203_0FD565904CE6CF88 (1), tcp:027651_0204_0FD56592C80E39B0 (1), tcp:027651_0205_0FD565938D802958 (1), tcp:027651_0206_0FD7C1E8D6D6F068 (1), tcp:027651_0207_0FD56596D1DC24C0 (1)  •  @__n__ (203) : iv (1), v (1), vi (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1), 102 (1), 103 (1), 104 (1), 105 (1), 106 (1), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 115 (1), 116 (1), 117 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 128 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 137 (1), 138 (1), 139 (1), 140 (1), 141 (1), 142 (1), 143 (1), 144 (1), 145 (1), 146 (1), 147 (1), 148 (1), 149 (1), 150 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1), 161 (1), 162 (1), 163 (1), 164 (1), 165 (1), 166 (1), 167 (1), 168 (1), 169 (1), 170 (1), 171 (1), 172 (1), 173 (1), 174 (1), 175 (1), 176 (1), 177 (1), 178 (1), 179 (1), 180 (1), 181 (1), 182 (1), 183 (1), 184 (1), 185 (1), 186 (1), 187 (1), 188 (1), 189 (1), 190 (1), 191 (1), 192 (1), 193 (1), 194 (1), 195 (1), 196 (1), 197 (1), 198 (1), 199 (1), 200 (1), 201 (1), 202 (1), 203 (1), 204 (1), 205 (1), 206 (1), 207 (1)|
+|16.|__postscript__|1||
+|17.|__q__|4||
+|18.|__salute__|6||
+|19.|__signed__|6||
+|20.|__trailer__|1||
